@@ -1,4 +1,3 @@
-# TEST
 Hi, and welcome to my GitHub page.
 
 What you'll find here is mainly spare time projects, that usually end up being useful for something video production related.
