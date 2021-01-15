@@ -2,8 +2,8 @@ theme: jekyll-theme-slate
 markdown: GFM
 
 title: Aron Het Lam
-repository-name: Aron Het Lam
-name: test
+project-title: Aron Het Lam
+site-name: Aron Het Lam
 
 owner:
   name: Aron Het Lam
